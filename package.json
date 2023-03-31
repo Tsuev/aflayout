@@ -1,0 +1,21 @@
+{
+  "name": "aflayout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch-scss": "gulp watchScss",
+    "build-scss": "gulp buildScss"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-changed": "^4.0.3",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^8.0.0",
+    "sass": "^1.60.0"
+  }
+}
